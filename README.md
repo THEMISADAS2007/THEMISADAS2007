@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Sachintha](https://cardivo.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/ZzpKGjMZ/9464.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachi_ya_004&github=Sachinthafdo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![Sachintha](https://cardivo.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://github.com/THEMISADAS2007/MOVIE-VISPER-DATABASE/blob/main/Data/488259979_986521796976525_7036993532685569906_n.jpg?raw=true?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachi_ya_004&github=Sachinthafdo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 
