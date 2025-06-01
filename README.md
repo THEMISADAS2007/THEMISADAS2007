@@ -1,5 +1,4 @@
-[![Darksadas YT](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23718aa1&fontColor=%23232329&iconColor=%23232329&pattern=topography&colorPattern=%23eaeaea&opacity=0.2&site=https://sachibot.xyz)](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%230a0a0a&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3&site=https://visper-md-offical.vercel.app/)
-
+[![Darksadas YT](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)
 
 
 ### 👋 Hello there! I'm **THEMISADAS2007** 
