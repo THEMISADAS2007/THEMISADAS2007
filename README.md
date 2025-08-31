@@ -1,4 +1,4 @@
-[![Darksadas YT](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)
+[![Darksadas YT](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/ynY3zxfF/temp-1756642152203.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)
 
 
 ### 👋 Hello there! I'm **THEMISADAS2007** 
