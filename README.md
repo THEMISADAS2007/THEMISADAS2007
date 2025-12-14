@@ -1,6 +1,8 @@
-[![Darksadas YT](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://files.catbox.moe/3d9cdp.jpeg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)]
 
-### 👋 Hello there! I'm **THEMISADAS2007** 
+
+[![Themi Sadas Profile Card](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)](https://cardivo-beta.vercel.app/api?name=Themi%20Sadas&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.ibb.co/twGhKscZ/jpg.jpg&backgroundColor=%23000000&fontColor=%23ffffff&iconColor=%23ffffff&pattern=topography&colorPattern=%23111111&opacity=0.3)
+
+### 👋 Hello there! I'm **THEMISADAS2007** 
 
 I'm a passionate self-taught developer interested in full-stack development and scripting. I love building projects using both front-end and back-end technologies. Always learning something new!
 
@@ -38,4 +40,3 @@ I'm a passionate self-taught developer interested in full-stack development and 
 ---
 
 _Thanks for visiting my profile!_ 😄
-
